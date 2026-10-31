@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#090D16"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" stroke="#1E293B" stroke-width="6"/>
+  <!-- Acoustic wave & shield / translator motif inside 80% safe zone -->
+  <path d="M128 256V256" stroke="#10B981" stroke-width="24" stroke-linecap="round"/>
+  <path d="M172 196V316" stroke="#10B981" stroke-width="24" stroke-linecap="round"/>
+  <path d="M216 140V372" stroke="#10B981" stroke-width="24" stroke-linecap="round"/>
+  <path d="M260 184V328" stroke="#06B6D4" stroke-width="24" stroke-linecap="round"/>
+  <path d="M304 124V388" stroke="#06B6D4" stroke-width="24" stroke-linecap="round"/>
+  <path d="M348 188V324" stroke="#06B6D4" stroke-width="24" stroke-linecap="round"/>
+  <path d="M392 232V280" stroke="#F59E0B" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="392" cy="144" r="18" fill="#10B981"/>
+</svg>
